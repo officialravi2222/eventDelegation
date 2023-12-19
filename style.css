@@ -1,0 +1,9 @@
+#products span{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(233, 205, 164);
+    display: inline-block;
+}
+body{
+    background-color: rgb(39, 38, 38) ;
+}
